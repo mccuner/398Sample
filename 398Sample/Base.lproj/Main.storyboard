@@ -30,7 +30,7 @@
                                 <color key="highlightedColor" red="0.34436137680000001" green="1" blue="0.63040331029999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rsz-vJ-Yp2">
-                                <rect key="frame" x="117" y="414" width="142" height="121"/>
+                                <rect key="frame" x="117" y="414" width="142" height="83"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Submit"/>
                             </button>
